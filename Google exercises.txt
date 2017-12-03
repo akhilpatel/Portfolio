@@ -1,0 +1,27 @@
+Please choose one option from the prompts listed at the end of this email, and show us both of the following:
+A low-fidelity overview of the product or feature. Sketches, wireframes, site maps, and concept models are all acceptable in describing your solution
+A high-fidelity mockup for one screen, widget or interaction
+Regardless of the methods you use, it is important to describe your recommendation clearly and concisely to help us understand your work and process as we view it 
+remotely. [Please note: the design exercise (along with your portfolio and feedback) will be reviewed by the hiring team and will play a role in their decision on 
+whether or not to move forward with onsite interviews. If you are invited onsite, you will be asked to present/discuss this exercise as part of an in-person interview.]
+We ask that you post your submission online (please password protect the exercise and do not remove until we have reviewed it) and send the link to me. (Please do not 
+submit a zip file). Include an indication of how long you spent working on this exercise. (Interviewees tend to spend 3-5 hours on this exercise.) Please confirm that 
+you can submit this exercise to me Nov 1st. If this timeline does not work, let us know.
+Your submission will remain confidential to Google and will not be shared externally. It will only be viewed internally by Google employees who are directly involved in the interview process and hiring decision.
+Please feel free to contact me if you have any questions.
+Interaction Design Exercise options
+
+1.Wait Staff Reviews
+While there are many ways to rate and review restaurants, these are not focused on evaluating individuals servers. 
+Design an experience where diners can submit positive comments and constructive suggestions for the wait staff, and servers 
+can use this feedback to both improve and help to secure new employment. Provide a high-level flow and supporting wire frames.
+
+2.Names and Faces
+At the beginning of each new semester or school year, teachers are faced with the challenge of remembering names for a large number 
+of new students. Design an experience to help an educator match faces to names, with the goal of shortening the time needed to reach 
+complete un-aided accuracy. Provide a high-fidelity mock for at least one step of this experience.
+
+3.Pet Adoption
+Millions of animals are currently in shelters and foster homes awaiting adoption. Design an experience that will help connect people looking
+ for a new pet with the right companion for them. Help an adopter find a pet which matches their lifestyle, considering factors including 
+ breed, gender, age, temperament, and health status. Provide a high-level flow and supporting wire frames.
