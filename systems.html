@@ -559,6 +559,19 @@ for the same is under review at DesignConference2018, Croatia.</p>
                             });
                         }
                         </script>
+						
+						
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-91052381-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 <script type='text/javascript'>
 /* <![CDATA[ */
 var DavesWordPressLiveSearchConfig = {"resultsDirection":"","showThumbs":"false","showExcerpt":"true","displayPostCategory":"false","showMoreResultsLink":"true","minCharsToSearch":"0","xOffset":"0","yOffset":"0","blogURL":"https:\/\/undsgn.com\/uncode","ajaxURL":"https:\/\/undsgn.com\/uncode\/wp-admin\/admin-ajax.php","viewMoreText":"View more results","outdatedJQuery":"Dave's WordPress Live Search requires jQuery 1.2.6 or higher. WordPress ships with current jQuery versions. But if you are seeing this message, it's likely that another plugin is including an earlier version.","resultTemplate":"<ul id=\"dwls_search_results\" class=\"search_results dwls_search_results\">\n<input type=\"hidden\" name=\"query\" value=\"<%- resultsSearchTerm %>\" \/>\n<% _.each(searchResults, function(searchResult, index, list) { %>\n        <%\n        \/\/ Thumbnails\n        if(DavesWordPressLiveSearchConfig.showThumbs == \"true\" && searchResult.attachment_thumbnail) {\n                liClass = \"post_with_thumb\";\n        }\n        else {\n                liClass = \"\";\n        }\n        %>\n        <li class=\"post-<%= searchResult.ID %> daves-wordpress-live-search_result <%- liClass %>\">\n\n        <a href=\"<%= searchResult.permalink %>\" class=\"daves-wordpress-live-search_title\">\n        <% if(DavesWordPressLiveSearchConfig.displayPostCategory == \"true\" && searchResult.post_category !== undefined) { %>\n                <span class=\"search-category\"><%= searchResult.post_category %><\/span>\n        <% } %><span class=\"search-title\"><%= searchResult.post_title %><\/span><\/a>\n\n        <% if(searchResult.post_price !== undefined) { %>\n                <p class=\"price\"><%- searchResult.post_price %><\/p>\n        <% } %>\n\n        <% if(DavesWordPressLiveSearchConfig.showExcerpt == \"true\" && searchResult.post_excerpt) { %>\n                <%= searchResult.post_excerpt %>\n        <% } %>\n\n        <% if(e.displayPostMeta) { %>\n                <p class=\"meta clearfix daves-wordpress-live-search_author\" id=\"daves-wordpress-live-search_author\">Posted by <%- searchResult.post_author_nicename %><\/p><p id=\"daves-wordpress-live-search_date\" class=\"meta clearfix daves-wordpress-live-search_date\"><%- searchResult.post_date %><\/p>\n        <% } %>\n        <div class=\"clearfix\"><\/div><\/li>\n<% }); %>\n\n<% if(searchResults[0].show_more !== undefined && searchResults[0].show_more && DavesWordPressLiveSearchConfig.showMoreResultsLink == \"true\") { %>\n        <div class=\"clearfix search_footer\"><a href=\"<%= DavesWordPressLiveSearchConfig.blogURL %>\/?s=<%-  resultsSearchTerm %>\"><%- DavesWordPressLiveSearchConfig.viewMoreText %><\/a><\/div>\n<% } %>\n\n<\/ul>"};
